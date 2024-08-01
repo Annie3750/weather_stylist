@@ -61,4 +61,8 @@ GPTAPI
 
 
 ■ 画面遷移図
-https://www.figma.com/design/AewaP3Oqkt4rPsZseGGbqD/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3(WeatherStylist)%EF%BC%92?node-id=0-1&t=muV9bWd6iCHIgNHA-1
+https://www.figma.com/design/AewaP3Oqkt4rPsZseGGbqD/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3(WeatherStylist)%EF%BC%92?node-id=0-1&t=muV9bWd6iCHIgNHA-
+
+
+■ ER図
+![alt text](<画面遷移図(WeatherStylist).drawio (1).png>)
