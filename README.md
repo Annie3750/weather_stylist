@@ -65,4 +65,4 @@ https://www.figma.com/design/AewaP3Oqkt4rPsZseGGbqD/%E7%94%BB%E9%9D%A2%E9%81%B7%
 
 
 ■ ER図
-![alt text](ER図(WeatherStylist).drawio.png)
+![alt text](<ER図(WeatherStylist).drawio (3).png>)
